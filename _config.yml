@@ -14,7 +14,7 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  sal:
+  Winsen:
     name: Winsen
     display_name: Winsen
     gravatar: 2dcf2c28822a571dfc95f4446278953a
@@ -28,7 +28,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -36,11 +36,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 highlighter: rouge
 markdown: kramdown
