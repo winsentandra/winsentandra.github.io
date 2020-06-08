@@ -20,3 +20,4 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
 end
+gem "github-pages", group: :jekyll_plugins
